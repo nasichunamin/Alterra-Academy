@@ -1,0 +1,35 @@
+.form-img {
+    background-image: url("../../assets/images/charles-rRWiVQzLm7k-unsplash.jpg");
+    background-size: cover;
+    padding: 0;
+    width: 100%;  
+}
+
+.kotak{
+    margin: 0;
+    background-color:#19345E;
+    opacity: 0.65;
+    width: 100%;
+    height: 792px;
+    padding: 300px 0;
+}
+
+.alta{
+    align-content: center;
+    width: 248px;
+}
+.isi-form{
+    font-family: 'Muli', sans-serif;
+    font-size: 23px;
+    color: #19345e;
+    padding: 0px 150px;
+}
+
+.rincian-form{
+    font-size: 20px;
+}
+
+.form-group .required:after{
+    content:"*";
+    color: red
+}

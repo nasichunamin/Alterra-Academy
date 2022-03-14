@@ -1,0 +1,41 @@
+/* @import url("") */
+/* html, body {
+    height: 100%;
+    width: 100%;
+
+*/
+/* body {
+ overflow: hidden;
+} */
+/* .penuh {
+    height: 800px;
+} */
+
+
+header{
+    background-color: #FFFFFF;
+    padding: 11px
+}
+
+
+.navig a{
+    color: #19345E;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: 'Muli', sans-serif;
+    font-size: 13px;
+}
+
+
+body .navig a.aktif{
+    color: #F47522;
+    font-weight: bold;
+}
+
+.navig a:hover{
+    color: #F47522;
+}
+
+.logo-atas{
+    width: 135px;
+}

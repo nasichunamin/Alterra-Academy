@@ -1,0 +1,62 @@
+.home-background {
+    background-image: url("../../assets/images/bg-img.png");
+    background-size: 100%;
+    height: 100vh;
+    width: 100%;
+}
+#foto-profil {
+    border-radius: 50%;
+    width: 355px;
+    margin: auto;
+}
+
+.isi-home{
+    padding-top:  12%;
+}
+
+.main-p{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    color: #19345E;
+    padding-left: 40px; 
+}
+
+.sapaan{
+    font-size: 25px;
+    font-weight: medium;
+    margin: 0;
+}
+
+.nama{
+    font-size: 85px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.hobi{
+    font-size: 35px;
+    font-weight: medium;
+    margin: 0;
+}
+
+.tombol {
+    background-color: #F47522;
+    border: 2px solid #F47522;
+    width: 150px auto;
+    height: 30px auto;
+    text-align: center;
+    display: table;
+    margin-top: 40px;
+    padding: 8px 35px;
+    font-size: 16px;
+    color: #ffffff;
+    border-radius: 25px;
+    transition: all 0.5s ease;
+    cursor: pointer;
+    -webkit-user-select: text;
+}
+
+.tombol a{
+    color: #ffffff;
+    text-decoration: none;
+}
